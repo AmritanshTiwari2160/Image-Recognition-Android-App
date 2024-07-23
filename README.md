@@ -12,5 +12,5 @@ Kotlin: The programming language used.</br>
 Firebase ML Kit: For on-device image labeling.</br>
 Android Studio: The development environment used.</br>
 
-*Contributing* </br>
+*Contributing*🤝 </br>
 Contributions are welcome! Please fork the repository and submit pull requests.
