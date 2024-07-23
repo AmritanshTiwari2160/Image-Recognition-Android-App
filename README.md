@@ -7,10 +7,10 @@ This project showcases an Android application developed using Kotlin, which leve
 4. Real-Time Feedback: Get real-time labels and confidence scores for recognized objects.
 5. User-Friendly Interface: Simple and intuitive user interface for capturing and viewing images.
 
-**Built With:**
-Kotlin: The programming language used.
-Firebase ML Kit: For on-device image labeling.
-Android Studio: The development environment used.
+**Built With:** </br>
+Kotlin: The programming language used.</br>
+Firebase ML Kit: For on-device image labeling.</br>
+Android Studio: The development environment used.</br>
 
-*Contributing*
+*Contributing* </br>
 Contributions are welcome! Please fork the repository and submit pull requests.
